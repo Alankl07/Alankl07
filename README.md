@@ -6,7 +6,7 @@
 
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=Alankl07&show_icons=true&theme=tokyonight&icon_color=3c4af9&count_private=true)
 ##
-- Staks que já utilizei.
+- Stacks que já utilizei.
 <div style="display: flex" >  
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
